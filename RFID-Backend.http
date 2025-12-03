@@ -1,0 +1,6 @@
+@RFID_Backend_HostAddress = http://localhost:5218
+
+GET {{RFID_Backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
